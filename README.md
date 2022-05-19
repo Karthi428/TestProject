@@ -15,7 +15,6 @@ Navigating back to home page
 
 Used Components:
 
-
 1) Maven Project
 2) TestNG used.
 3) Data Driven(Excel,Properties)
