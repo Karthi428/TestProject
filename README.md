@@ -6,7 +6,7 @@ Detailed Description:
 3. In Apps and Tools print all the header values of the Apps from my Apps/Office 365 Apps/Company Apps by using excel file
 
 Suggested Site: Be.Cognizant.com 
-   
+
 Key Automation Scope:
 
 Scrolling down in web page
