@@ -4,8 +4,9 @@ Detailed Description:
 1. Print our UserName from the Be.Cognizant Website 
 2. Compare the Stock Prices of Cognizant from Be.Cognizant Website and from Google Website
 3. In Apps and Tools print all the header values of the Apps from my Apps/Office 365 Apps/Company Apps by using excel file
-   Suggested Site: Be.Cognizant.com 
 
+Suggested Site: Be.Cognizant.com 
+   
 Key Automation Scopes:
 
 Scrolling down in web page
