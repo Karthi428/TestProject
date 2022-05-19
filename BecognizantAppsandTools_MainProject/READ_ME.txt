@@ -1,10 +1,5 @@
 Project Name:- Cognizant Stock Price and Apps & Tools(Window Icon)
 
-Team Members:
-Karthi Sampath : 2078130
-Kirthana S : 2080574
-Madhumitha A: 2078082
-Problem Statement : Cognizant Stock Price and Apps & Tools(Window Icon)
 Detailed Description: 
 
 1. Print our UserName from the Be.Cognizant Website
