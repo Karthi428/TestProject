@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-30T21:54:48 IST" name="Default suite" finished-at="2022-01-30T21:57:37 IST" duration-ms="168836">
+    <groups>
+    </groups>
+    <test started-at="2022-01-30T21:54:48 IST" name="Default test" finished-at="2022-01-30T21:57:37 IST" duration-ms="168836">
+      <class name="testcases.Main">
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:testcases.Main@3e84448c]" started-at="2022-01-30T21:54:48 IST" name="browserlaunch" finished-at="2022-01-30T21:55:02 IST" duration-ms="14027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="LogIn()[pri:0, instance:testcases.Main@3e84448c]" started-at="2022-01-30T21:55:02 IST" name="LogIn" finished-at="2022-01-30T21:55:12 IST" duration-ms="10181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method signature="fetchUserName()[pri:1, instance:testcases.Main@3e84448c]" started-at="2022-01-30T21:55:12 IST" name="fetchUserName" finished-at="2022-01-30T21:55:39 IST" duration-ms="26852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchUserName -->
+        <test-method signature="price()[pri:2, instance:testcases.Main@3e84448c]" started-at="2022-01-30T21:55:39 IST" name="price" finished-at="2022-01-30T21:55:47 IST" duration-ms="7867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- price -->
+        <test-method signature="Myapp()[pri:3, instance:testcases.Main@3e84448c]" started-at="2022-01-30T21:55:47 IST" name="Myapp" finished-at="2022-01-30T21:55:52 IST" duration-ms="5489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Myapp -->
+        <test-method signature="office()[pri:4, instance:testcases.Main@3e84448c]" started-at="2022-01-30T21:55:52 IST" name="office" finished-at="2022-01-30T21:55:53 IST" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- office -->
+        <test-method signature="company()[pri:5, instance:testcases.Main@3e84448c]" started-at="2022-01-30T21:55:53 IST" name="company" finished-at="2022-01-30T21:57:35 IST" duration-ms="101343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- company -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Main@3e84448c]" started-at="2022-01-30T21:57:35 IST" name="close" finished-at="2022-01-30T21:57:37 IST" duration-ms="1783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

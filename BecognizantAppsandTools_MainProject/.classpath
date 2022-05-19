@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="ExtentReportJars/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="ExtentReportJars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
