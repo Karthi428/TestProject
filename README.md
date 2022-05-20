@@ -28,6 +28,6 @@ Used Components:
 10) Wait interface
 11) Screenshot
 12) Folder Structure
-13) 
+
 TO RUN THE PROJECT : 
 Run the "testng.xml" file using TestNG suite.
