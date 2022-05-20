@@ -30,4 +30,4 @@ Used Components:
 12) Folder Structure
 
 TO RUN THE PROJECT : 
-Run the "testng.xml" file using TestNG suite
+Run the "testng.xml" file using TestNG suites
