@@ -26,9 +26,8 @@ Used Components:
 8) Code Comments
 9) Condition flow
 10) Wait interface
-11) Screenshot
+11) Screenshots
 12) Folder Structure
 
 TO RUN THE PROJECT : 
-
 Run the "testng.xml" file using TestNG suite
