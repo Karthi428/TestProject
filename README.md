@@ -29,5 +29,5 @@ Used Components:
 11) Screenshot
 12) Folder Structure
 
-TO RUN THE PROJECT :
+TO RUN THE PROJECT : 
 Run the "testng.xml" file using TestNG suite.
