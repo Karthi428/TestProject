@@ -7,7 +7,7 @@ Detailed Description:
 
 Suggested Site: Be.Cognizant.com 
 
-Key Automation Scopes:
+Key Automation Scope:
 
 Scrolling down in web page
 Extract apps header value & store in collections
