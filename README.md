@@ -1,4 +1,4 @@
-Project Name: Cognizant Stock Price and Apps & Tools(Window Icon)
+Project Name:- Cognizant Stock Price and Apps & Tools(Window Icon)
 
 Detailed Description: 
 1. Print our UserName from the Be.Cognizant Website 
@@ -7,7 +7,7 @@ Detailed Description:
 
 Suggested Site: Be.Cognizant.com 
 
-Key Automation Scope:
+Key Automation Scopes:
 
 Scrolling down in web page
 Extract apps header value & store in collections
